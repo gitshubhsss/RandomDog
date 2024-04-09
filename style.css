@@ -1,0 +1,28 @@
+.image{
+    height:400px;
+    width: 400px;
+    margin: 100px auto;
+    margin-bottom: 2rem;
+    padding: 1rem;
+   
+}
+img{
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    
+}
+.newDogBtn{
+    text-align: center;
+}
+
+@media (max-width:768px) {
+    .image{
+        width: 80%;
+        margin: 20px auto;
+    }
+}
+.letn{
+    background-image:url() ;
+}
